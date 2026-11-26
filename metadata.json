@@ -1,0 +1,6 @@
+{
+  "name": "Breathwise — Know your air. Change your day.",
+  "description": "Know your air. Change your day. GenAI-powered urban air quality assistant helping families and communities cope with severe winter smog.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
